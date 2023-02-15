@@ -5,11 +5,11 @@ function About(props) {
         <div className="container">
         <div className="row">
             <div className="col-md-12 text-center">
-                <NavLink to={`/`} className="btn-outline-secondary">Contact</NavLink>
+                <h3 className="display-3 text-primary">About</h3>
             </div>
         </div>
     </div>
     )
 }
-  
+
 export default About

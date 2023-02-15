@@ -5,7 +5,7 @@ function Contact(props) {
         <div className="container">
         <div className="row">
             <div className="col-md-12 text-center">
-                <NavLink to={`/`} className="btn-outline-secondary">Contact</NavLink>
+                <h3 className="display-3 text-primary">Contact</h3>
             </div>
         </div>
     </div>
